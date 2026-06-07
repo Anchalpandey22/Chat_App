@@ -15,7 +15,7 @@
 
 ---
 
-## Features
+## Features 
 
 - ✅ User Registration & Login (passwords hashed)
 - ✅ Real-time 1-to-1 messaging (no page refresh needed)
