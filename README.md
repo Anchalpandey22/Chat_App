@@ -11,7 +11,7 @@
 | Backend   | Python Flask                        |
 | Database  | SQLite (built into Python — no install needed) |
 | Real-Time | Server-Sent Events (SSE)           |
-| Auth      | Session-based login + SHA256 hashed passwords |
+| Auth      | Session-based login + SHA256 hashed passwords | 
 
 ---
 
