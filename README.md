@@ -1,7 +1,7 @@
 # 💬 ChatApp — WhatsApp Lite
 ### Real-Time Chat Application with Groups, Auth & SQLite Database
 
----
+--- 
  
 ## Tech Stack
 
