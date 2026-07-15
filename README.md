@@ -4,7 +4,7 @@
 --- 
  
 ## Tech Stack
-  
+   
 | Layer     | Technology                          |
 |-----------|-------------------------------------|
 | Frontend  | HTML + CSS + Vanilla JavaScript     |
