@@ -3,7 +3,7 @@
 
 --- 
  
-## Tech Stack
+## Tech Stack 
    
 | Layer     | Technology                          |
 |-----------|-------------------------------------| 
