@@ -5,7 +5,7 @@
  
 ## Tech Stack  
     
-| Layer     | Technology                          |
+| Layer     | Technology                          | 
 |-----------|-------------------------------------|   
 | Frontend  | HTML + CSS + Vanilla JavaScript     |
 | Backend   | Python Flask                        |
