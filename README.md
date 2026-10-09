@@ -8,7 +8,7 @@
 | Layer     | Technology                          | 
 |-----------|-------------------------------------|   
 | Frontend  | HTML + CSS + Vanilla JavaScript     |
-| Backend   | Python Flask                        | 
+| Backend   | Python Flask                        |  
 | Database  | SQLite (built into Python — no install needed) |
 | Real-Time | Server-Sent Events (SSE)           |
 | Auth      | Session-based login + SHA256 hashed passwords | 
